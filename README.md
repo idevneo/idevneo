@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi there 👋, I’m Devan
+👀 I’m interested in software engineering, venture capital, finance, and building cool products
+🌱 I’m currently studying Computer Science and Business Honors at UT Austin
+📫 How to reach me: devanpatel@utexas.edu
 
 ![Devan's GitHub stats](https://github-readme-stats.vercel.app/api?username=idevneo)
 
